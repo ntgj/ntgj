@@ -1,4 +1,4 @@
-👋 Olá, sou o Neri! 🔬 Analista de Dados e Químico.
+👋 Olá, me chamo Neri! 🔬 Analista de Dados e Químico.
 
 ## ⚡ Skills:
 - Power BI
