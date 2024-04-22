@@ -3,5 +3,5 @@
 ## ⚡ Skills:
 - Power BI
 - Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn)
-- SQL
+- SQL (MySQL e PostgreSQL)
 - R
