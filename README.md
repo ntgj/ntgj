@@ -6,7 +6,7 @@ Durante minha formação em química tecnológica na UFSCar, descobri minha paix
 - Estatística
 - Análise de Dados
 - Power BI
-- Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, PySpark)
+- Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn)
 - SQL (MySQL e PostgreSQL)
 - R
 
